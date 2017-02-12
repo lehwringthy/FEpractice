@@ -1,0 +1,12 @@
+.queue div{
+	background-color: red;
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	margin: 10px;
+	color: white;
+}
+
+.operation {
+	display: inline-block;
+}
